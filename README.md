@@ -1,4 +1,4 @@
-# LambdaWorld17-iot-example-with-Lagom-Slides
+# LambdaWorld17-Slides
 
 ## Description
 
